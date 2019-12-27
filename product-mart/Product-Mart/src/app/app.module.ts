@@ -16,7 +16,7 @@ import { HomeComponent } from './home/home.component';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    PmMaterialModule
+    PmMaterialModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
