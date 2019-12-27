@@ -1,0 +1,20 @@
+[
+    {
+        "imgUrl":"https://rukminim1.flixcart.com/image/714/857/jao8uq80/shoe/3/r/q/sm323-9-sparx-white-original-imaezvxwmp6qz6tg.jpeg?q=50",
+         "name"  :"Canvas Shoes",
+         "price" : 500,
+         "id": 3
+    },
+    {
+        "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/61utX8kBDlL._UL1100_.jpg",
+         "name"  :"Canvas Shoes",
+         "price" : 500,
+         "id": 4
+    },
+    {
+        "imgUrl":"https://4.imimg.com/data4/YK/OA/ANDROID-31658017/product-500x500.jpeg",
+         "name"  :"Canvas Shoes",
+         "price" : 500,
+         "id": 5
+    }
+]
