@@ -13,8 +13,8 @@ import { PmMaterialModule } from '../material-module';
   imports: [
     CommonModule,
     ProductsRoutingModule,
-    HttpClientModule,PmMaterialModule
+    HttpClientModule, PmMaterialModule
   ],
-  providers:[ProductDataService]
+  providers: [ProductDataService]
 })
 export class ProductsModule { }

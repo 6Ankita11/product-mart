@@ -9,8 +9,8 @@ import { Observable } from 'rxjs';
   styleUrls: ['./products.component.scss']
 })
 export class ProductsComponent implements OnInit {
-  products:Observable<any>;
-  constructor(private productDataService : ProductDataService) { }
+  products: Observable<any>;
+  constructor(private productDataService: ProductDataService) { }
 
   ngOnInit() {
     this.products = this.productDataService.getAllProducts();
